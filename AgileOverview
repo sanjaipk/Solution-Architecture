@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-04T03:48:26.355Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="eTadVAwbyNXB6v7nrYml" version="15.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-04T03:54:26.447Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="gqLP-hR5tYsTtsrc835q" version="15.3.7" type="github">
   <diagram id="b9cfV_kW_jp9D3TDjTe8" name="Page-1">
     <mxGraphModel dx="1244" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -609,8 +609,71 @@
         <mxCell id="2HbZWRDe5vg4tDwfufIa-199" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/simpline-mix/64/simpline_13-128.png" vertex="1" parent="1">
           <mxGeometry x="625.75" y="743.5" width="38" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="2HbZWRDe5vg4tDwfufIa-200" value="Teams" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="725.5" y="734.5" width="40" height="20" as="geometry" />
+        <mxCell id="2HbZWRDe5vg4tDwfufIa-200" value="Dev + Business&amp;nbsp;&lt;br&gt;Teams" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="703" y="720" width="94.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2HbZWRDe5vg4tDwfufIa-201" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/simpline-mix/64/simpline_13-128.png" vertex="1" parent="1">
+          <mxGeometry x="53" y="910" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="2HbZWRDe5vg4tDwfufIa-205" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/simpline-mix/64/simpline_13-128.png" vertex="1" parent="1">
+          <mxGeometry x="176.5" y="912" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="2HbZWRDe5vg4tDwfufIa-207" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/simpline-mix/64/simpline_13-128.png" vertex="1" parent="1">
+          <mxGeometry x="283" y="912" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="2HbZWRDe5vg4tDwfufIa-210" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/simpline-mix/64/simpline_13-128.png" vertex="1" parent="1">
+          <mxGeometry x="390.5" y="910" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="2HbZWRDe5vg4tDwfufIa-212" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/simpline-mix/64/simpline_13-128.png" vertex="1" parent="1">
+          <mxGeometry x="493" y="910" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="2HbZWRDe5vg4tDwfufIa-213" value="Business&amp;nbsp;&lt;br&gt;Teams" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="700.5" y="908" width="94.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2HbZWRDe5vg4tDwfufIa-214" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/simpline-mix/64/simpline_13-128.png" vertex="1" parent="1">
+          <mxGeometry x="607.25" y="910" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="2HbZWRDe5vg4tDwfufIa-218" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/business-black-1/64/11-128.png" vertex="1" parent="1">
+          <mxGeometry x="350.25" y="1060" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2HbZWRDe5vg4tDwfufIa-220" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fillColor=#ffcccc;strokeColor=#9AA2AD;" edge="1" parent="1" source="2HbZWRDe5vg4tDwfufIa-218" target="2HbZWRDe5vg4tDwfufIa-214">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="970" as="sourcePoint" />
+            <mxPoint x="420" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2HbZWRDe5vg4tDwfufIa-221" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fillColor=#ffcccc;strokeColor=#9AA2AD;" edge="1" parent="1" source="2HbZWRDe5vg4tDwfufIa-218" target="2HbZWRDe5vg4tDwfufIa-212">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="389.75" y="1010" as="sourcePoint" />
+            <mxPoint x="617.25" y="958" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2HbZWRDe5vg4tDwfufIa-222" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#ffcccc;strokeColor=#9AA2AD;" edge="1" parent="1" source="2HbZWRDe5vg4tDwfufIa-218">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="400.25" y="1070" as="sourcePoint" />
+            <mxPoint x="410" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2HbZWRDe5vg4tDwfufIa-223" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#ffcccc;strokeColor=#9AA2AD;" edge="1" parent="1" source="2HbZWRDe5vg4tDwfufIa-218" target="2HbZWRDe5vg4tDwfufIa-207">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="380.25" y="1070" as="sourcePoint" />
+            <mxPoint x="420" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2HbZWRDe5vg4tDwfufIa-224" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#ffcccc;strokeColor=#9AA2AD;" edge="1" parent="1" source="2HbZWRDe5vg4tDwfufIa-218" target="2HbZWRDe5vg4tDwfufIa-205">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370.25" y="1070" as="sourcePoint" />
+            <mxPoint x="312" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2HbZWRDe5vg4tDwfufIa-225" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#ffcccc;strokeColor=#9AA2AD;" edge="1" parent="1" source="2HbZWRDe5vg4tDwfufIa-218">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="360.25" y="1080" as="sourcePoint" />
+            <mxPoint x="80" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2HbZWRDe5vg4tDwfufIa-226" value="Sponsor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="372" y="1060" width="94.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
